@@ -20,3 +20,16 @@ more_images_searcher sometimes does not work --> Clone to your local computer to
 
 # Giphy-API-Searcher-GAS
 Giphy API Searcher (GAS)
+
+# image_recognition
+image_recognition
+
+From Teachable Machine Image Model with duyhandsome
+> Visit these with responsiveVoice API:
+- https://imagerecognition.dominhduy.repl.co
+
+# https://teachablemachine.withgoogle.com/models/Gf6GelTt7
+
+# super_lite_browser
+ Super Lite Browser (SLB)
+ > To use --> just download the .exe file 
