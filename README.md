@@ -1,8 +1,6 @@
 # Learning-programming
 Learning-programming books and collections.
 
-****
-
 # face_detector 
 > Github sometimes has some problems --> try out here for best experience!
 - https://facedetector.dominhduy.repl.co
@@ -25,5 +23,3 @@ From Teachable Machine Image Model with duyhandsome
 
 # super_lite_browser
  > To use --> just download the .exe file 
-
-****
